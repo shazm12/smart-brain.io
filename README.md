@@ -1,3 +1,11 @@
+# **Smart Brain 🧠**
+
+![alt text](https://shamiksportfolio.netlify.app/assets/back_1.c1400da94168b2377953f77658864858.png)
+
+Smart Brain is one of the current projects I have been working on,It consist of a Dashboard and User needs to Login/Register to get there and the user needs to upload a image wih a face in the image, Using the Face Recognition Model from Clarifai API,the model detects and highlights the face region with a box around it, and also the user recieves some points for doing so.It is made using React,Node JS,Express and PostgreSQL as database to store user and points awarded.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
